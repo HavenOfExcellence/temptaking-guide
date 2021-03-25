@@ -1,9 +1,9 @@
-import hydrate from "next-mdx-remote/hydrate";
-import { getMD } from "lib/mdx";
-import { slugs } from "content/meta";
+import hydrate from 'next-mdx-remote/hydrate';
+import { getMD } from 'lib/mdx';
+import { slugs } from 'content/meta';
 
-import MDXComponents from "components/MDXComponents";
-import GuidePreview from "components/GuidePreview";
+import MDXComponents from 'components/MDXComponents';
+import GuidePreview from 'components/GuidePreview';
 
 export default function Index({ unhydratedContent, pages }) {
   const hydratedContent = hydrate(unhydratedContent, {
@@ -12,7 +12,7 @@ export default function Index({ unhydratedContent, pages }) {
 
   return (
     <>
-      <h1 className="text-4xl text-center font-black">MT-RAC+ Guide</h1>
+      <h1 className="text-4xl text-center font-black">Temptaking Guide</h1>
 
       <div className="prose">{hydratedContent}</div>
 
@@ -28,7 +28,7 @@ export default function Index({ unhydratedContent, pages }) {
 }
 
 export async function getStaticProps(context) {
-  const { unhydratedContent } = await getMD("index");
+  const { unhydratedContent } = await getMD('index');
 
   const pages = [];
   for (const slug of slugs) {
