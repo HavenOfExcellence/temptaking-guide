@@ -1,11 +1,11 @@
 ---
-title: Temptaking
+title: User Guide
 description: Using the Temptaking app
 ---
 
 ## Using the link you received
 
-Go to the link your admin has provided you
+Go to the link your admin has provided you. It will be something similar to `ptr.nsfc.live/group/xxxx-xxxx-xxxx-xxxx`.
 
 ![](/temptaking-guide/screenshots/Initial_Page.PNG)
 
