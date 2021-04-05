@@ -6,9 +6,9 @@ auth: true
 
 ## Sign Up for admin account
 
-First go to [ptr.nsfc.live](ptr.nsfc.live) and click sign up. If you keep on getting redirected to your own temperature records, try using incognito or private browsing mode to stop getting redirected
+First go to [ptr.nsfc.live/admin](https://ptr.nsfc.live/admin/) and click sign up.
 
-![](/temptaking-guide/screenshots/Sign_Up.PNG)
+![](/temptaking-guide/screenshots/Sign_Up.jpeg)
 
 You will see the following form
 ![](/temptaking-guide/screenshots/Sign_Up_Form1.PNG)
