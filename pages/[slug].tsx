@@ -41,7 +41,7 @@ const Guide = ({ title, unhydratedContent, auth }) => {
       {wrongPasswordEntered && (
         <div className="text-red-500 font-bold">
           You entered the wrong password. Please reload the page and try again.
-          Contact your Hub Admin if you do not know the password
+          Contact your Desmond if you do not know the password
         </div>
       )}
     </>
