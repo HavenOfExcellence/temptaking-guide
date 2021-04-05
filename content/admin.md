@@ -4,27 +4,57 @@ description: Using the admin dashboard
 auth: true
 ---
 
-## Roles
+## Sign Up for admin account
 
-The two main roles are **Group Admin** and **Super Admin**:
+First go to [ptr.nsfc.live](ptr.nsfc.live) and click sign up
 
-- Group Admins can view all users in their own group
-- Super Admins can do everything Group Admins can, but also view users not in their group
+![](/temptaking-guide/screenshots/Sign_Up.PNG)
+
+You will see the following form
+![](/temptaking-guide/screenshots/Sign_Up_Form1.PNG)
+Fill up the details. Group Id is the long string after the link you give to your men.
+
+IE:
+
+GroupLink: https://ptr.nsfc.live/group/b66ca142-918b-4ada-b7d1-c17e4e510170
+
+GroupId will be: b66ca142-918b-4ada-b7d1-c17e4e510170
+
+![](/temptaking-guide/screenshots/Sign_Up_Form2.PNG)
+
+After success, you will see the following pop up
+
+![](/temptaking-guide/screenshots/Sign_Up_Complete.PNG)
+
+### Sign up errors
+
+If you enter a wrong group key, it will tell you so
+![](/temptaking-guide/screenshots/Sign_Up_Error1.PNG)
+If you enter a wrong group ID, it will not show the group name
+![](/temptaking-guide/screenshots/Sign_Up_Error2.PNG)
+
+## Logging in
+
+Enter your details and login
+
+![](/temptaking-guide/screenshots/Login.PNG)
 
 ## Viewing users
 
-On the main page, click on the admin tab:
+After logging in, you will see the list of users in your group
 
-![](/temptaking-guide/screenshots/admin-dashboard.png)
+![](/temptaking-guide/screenshots/Admin_View.PNG)
 
 ### Viewing a single user
 
-You may click on any user to view all of their licence information, category, Super and group, and MT-RACs. You can also few all feedback they have received.
+You may click on any user to view all of their Temperature records sorted by month
+![](/temptaking-guide/screenshots/Admin_View_Single.PNG)
 
-You can also take some actions on the user:
+## Group Setting/Configuration
 
-- **Verify the user's licences**: this gives them a check mark next to their licence, signifying that it is verified by a group or Super commander
-- **Promote the user to group admin** (or Super admin if you are a Super admin)
-- **Remove the user from their group**: Some users that don't belong in the specific group, so you can use this function to remove them from their current group
-- **Reset the user's password**: In case the user has forgotten their password, you can use this feature to help them set a new password
+You may click on group Settings to add users/reset pin
+![](/temptaking-guide/screenshots/Group_Setting_Button.jpeg)
 
+In this view you can reset an individual user's pin & add a list of users
+
+![](/temptaking-guide/screenshots/Group_Setting_Inside.jpeg)

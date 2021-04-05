@@ -1,6 +1,6 @@
 ---
 title: User Guide
-description: Using the Temptaking app
+description: Using the Personal Temperature Recorder app
 ---
 
 ## Using the link you received
@@ -13,7 +13,7 @@ Go to the link your admin has provided you. It will be something similar to `ptr
 
 ![](/temptaking-guide/screenshots/Select_Name.PNG)
 ![](/temptaking-guide/screenshots/Select_Time.PNG)
-![](/temptaking-guide/screenshots/Select_Pin.PNG)
+![](/temptaking-guide/screenshots/Enter_Pin.PNG)
 ![](/temptaking-guide/screenshots/Fill_1.PNG)
 
 ## Set Pin

@@ -1,5 +1,5 @@
 ---
-title: Temptaking Guide
+title: Personal Temperature Recorder Guide
 ---
 
-Welcome to the Temptaking Guide. Please navigate to the appropriate section to learn how to use the Temptaking app.
+Welcome to the Personal Temperature Recorder Guide. Please navigate to the appropriate section to learn how to use the Personal Temperature Recorder app.
