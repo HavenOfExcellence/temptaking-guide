@@ -11,13 +11,11 @@ In order to edit the guide pages, you will need to know markdown. Learn markdown
 ## Important files to edit the content
 
 - [Content pages](content/index.md)
-  - [Accounts](content/accounts.md)
-  - [Transport Operator](content/transport-operator.md)
-  - [Vehicle Commander](content/vehicle-commander.md)
-  - etc.
+  - [Temptaking](content/temptaking.md)
+  - [Admin](content/admin.md) (authenticated)
 - [Screenshots](public/screenshots)
 
-If new pages are to be inserted, [`meta.ts`](content/meta.ts) also needs to have the page _slug_ inside for it to build the new page inserted. The page slug is the file name. For example, the page slug of the **Transport Operator** page is `transport-operator`.
+If new pages are to be inserted, [`meta.ts`](content/meta.ts) also needs to have the page _slug_ inside for it to build the new page inserted. The page slug is the file name. For example, the page slug of the **Temptaking** page is `temptaking`.
 
 When creating new pages, do **not** use spaces in the file name. Instead of spaces, include hyphens.
 
